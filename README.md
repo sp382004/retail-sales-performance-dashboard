@@ -75,6 +75,6 @@ The `tableau/` folder contains visualizations created using Tableau Public:
 ### Top Sub-Categories
 ![Top Sub-Categories](tableau/top_subcategories.png)
 
-## Resume Description
+## Description
 
 Analyzed retail sales data using PostgreSQL and SQL to identify revenue trends, profitable product categories, and regional business performance. Built Tableau visualizations to communicate key business insights.
