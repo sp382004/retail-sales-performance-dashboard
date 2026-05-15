@@ -64,16 +64,13 @@ The `tableau/` folder contains visualizations created using Tableau Public:
 - Sample Superstore Dataset
 - Commonly used retail analytics dataset for SQL and Tableau projects
 
-## Visualization Previews
+## Visualization Preview
 
-### Sales by Category
 ![Sales by Category](tableau/sales_by_category.png)
 
-### Profit by State
-![Profit by State](tableau/profit_by_state.png)
-
-### Top Sub-Categories
-![Top Sub-Categories](tableau/top_subcategories.png)
+Additional visualizations:
+- [Profit by State](tableau/profit_by_state.png)
+- [Top Sub-Categories](tableau/top_subcategories.png)
 
 ## Description
 
